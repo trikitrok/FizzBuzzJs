@@ -1,0 +1,1 @@
+FizzBuzz in JS to try karma test runner
